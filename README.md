@@ -7,7 +7,7 @@
 ## Description
 I created this repository to record and share my solutions to the HackerRank SQL challenges.
 
-Readme format taken from [Thomas George T.](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/README.md)
+Readme format taken from [Thomas George T.](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions)
 
 
 ## Domains
