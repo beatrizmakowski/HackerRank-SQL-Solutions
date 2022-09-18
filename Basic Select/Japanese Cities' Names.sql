@@ -1,0 +1,5 @@
+# Author: Beatriz Makowski
+
+SELECT NAME
+FROM CITY
+WHERE COUNTRYCODE = 'JPN';
