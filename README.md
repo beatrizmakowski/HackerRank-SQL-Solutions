@@ -21,7 +21,7 @@ Readme format taken from [Thomas George T.](https://github.com/Thomas-George-T/H
 | 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [SQL](Basic%20Select/Select%20All.sql) |
 | 4 | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [SQL](Basic%20Select/Select%20By%20ID.sql) |
 | 5 | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [SQL](Basic%20Select/Japanese%20Cities'%20Attributes.sql)
-| 6 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [SQL](Japanese%20Cities'%20Names.sql)
+| 6 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [SQL](Basic%20Select/Japanese%20Cities'%20Names.sql)
 | 7 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | |
 | 8 | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | |
 | 9 | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | |
