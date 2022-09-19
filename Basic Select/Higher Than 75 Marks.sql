@@ -1,0 +1,6 @@
+# Author: Beatriz Makowski
+
+SELECT NAME
+FROM STUDENTS
+WHERE Marks > 75
+ORDER BY SUBSTRING(NAME, -3, 3), ID ASC;
